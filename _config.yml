@@ -1,17 +1,5 @@
 layout_spectrum: 0.7978724
 name: hongkonglish
-collections:
-  - index:
-      navigable: true
-      path: /
-      number: 15
-      paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
-    permalink:
-      path: '/:title/'
 color:
   brandStrength: 0.825347
   saturation: 0.9620792
@@ -24,3 +12,15 @@ color:
   lightness: 0.214017
   rhythmicContrast: 0.4847702
 typography_spectrum: 0.2126296
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
