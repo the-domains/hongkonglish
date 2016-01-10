@@ -1,14 +1,26 @@
-layout_spectrum: 0.6866442
-typography_spectrum: 0.2126296
+layout_spectrum: 0.7978724
+name: hongkonglish
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  lightness: 0.214017
   brandStrength: 0.825347
   saturation: 0.9620792
-  rhythmicContrast: 0.4847702
   brandColors:
     - '#FDFDFD'
     - '#D7261F'
     - '#FFBDBD'
     - '#040231'
     - '#9189AB'
-name: hongkonglish
+  lightness: 0.214017
+  rhythmicContrast: 0.4847702
+typography_spectrum: 0.2126296
