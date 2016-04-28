@@ -1,11 +1,11 @@
-layout_spectrum: 0.2425532
+layout_spectrum: 1
 favicon: null
 name: hongkonglish
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -23,18 +23,18 @@ collections:
     permalink:
       path: '/:title/'
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
 color:
   brandStrength: 0.825347
   lightness: 0.214017
   saturation: 0.9620792
   rhythmicContrast: 0.4847702
   brandColors:
-    - '#FDFDFD'
-    - '#D7261F'
-    - '#FFBDBD'
-    - '#040231'
-    - '#9189AB'
-typography_spectrum: 0
+    - '#FEFEFE'
+    - '#D7231E'
+    - '#ECA69D'
+    - '#120A41'
+    - '#8A4043'
+typography_spectrum: 0.8148936
